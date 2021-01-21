@@ -1,6 +1,10 @@
 [Home](Home.md) [Installation](Installation.md)
 [Document](docs/CODE_OF_CONDUCT.md)
 
+# The Minimal theme
+
+_Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](https://libonomy.github.io/explorer-docs/), or even [use it today](#usage)._
+
 # Libo Explorer Documentation
 
 Libo Explorer is a Block Explorer and Analytics Platform for Libo Coin, a decentralized smart contracts platform.

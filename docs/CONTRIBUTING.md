@@ -25,6 +25,10 @@ Here are a few tips for writing _great_ bug reports:
 
 **If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**
 
+---
+
+## layout: default
+
 ## Code of conduct
 
 This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.

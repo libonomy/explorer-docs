@@ -2,12 +2,9 @@
 layout: default
 ---
 
-[Home](Home.md) [Installation](Installation.md)
+[Home](./Home.md).
+
 [Document](docs/CODE_OF_CONDUCT.md)
-
-# The Minimal theme
-
-_Libonomy theme for GitHub Pages. You can [preview the theme to see what it looks like](https://libonomy.github.io/explorer-docs/_layouts/default.html), or even [use it today](#usage)._
 
 # Libo Explorer Documentation
 

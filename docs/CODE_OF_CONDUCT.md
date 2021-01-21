@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

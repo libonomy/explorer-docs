@@ -1,3 +1,6 @@
+[Home](Home.md) [Installation](Installation.md)
+[Document](docs/CODE_OF_CONDUCT.md)
+
 # Libo Explorer Documentation
 
 Libo Explorer is a Block Explorer and Analytics Platform for Libo Coin, a decentralized smart contracts platform.
@@ -45,9 +48,11 @@ related RPC)
 [REST API'S](https://documenter.getpostman.com/view/7412271/TVt18Pmj)
 
 ###### For JS library kindly utilize
+
 [cuspstakeJS NPM](https://www.npmjs.com/package/@libonomy/cuspstakejs)
 
 ###### For JS library kindly utilize
+
 [liboexplorer.com](http://liboexplorer.com/)
 
 ## Install Go
@@ -80,7 +85,6 @@ cd cusp/
 git checkout v1.0.0
 ```
 
-
 #### After switching to the latest release, install the required dependencies,
 
 ```
@@ -95,6 +99,7 @@ sudo apt-get install manpages-dev
 ```
 
 #Make sure you are running correct version by using command
+
 ```
 sudo apt update
 sudo apt install build-essential
@@ -115,20 +120,20 @@ This command will reset all previous configurations for safe configuration to th
 -The chain that you are trying to connect to should be main-stake unless the development team
 -announces the new version of chain. Always keep your node up to date.
 ```
-          
+
 1. Run cuspd unsafe-reset-all
 2. Copy the genesis.json to the ~/.cuspd/config/ director
-If any genesis already exist replace it with this one
+   If any genesis already exist replace it with this one
 3. Within ~/.cuspd/config/ directory open config.toml
 4. Edit line#16 by assigning name to your node
 5. Within config.toml file, in the section [p2p] edit line#171
-persistent_peers and add the peers given below.
-Add persistent peers
-43f7bb1671db3ead72a9943efba102087a593480@18.232.124.100:26656
+   persistent_peers and add the peers given below.
+   Add persistent peers
+   43f7bb1671db3ead72a9943efba102087a593480@18.232.124.100:26656
 6. Use screen session to run daemon in the background or
-configure using systemd
+   configure using systemd
 7. After all is done run cuspd start
-Your node is now connected to mainnet
+   Your node is now connected to mainnet
 
 Remember: Checksum for genesis.json is
 91e7cab91704c2e88db079a690d3ff3c171e27df17fac38851b298ea651

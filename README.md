@@ -289,7 +289,6 @@ getPubKeyBase64(ecpairPriv)
  },
  "mode": modeType //async or sync
 }
-
 ```
 
 #### In case to learn more about transaction signing utilize the NPM library examples or ontact us. All the necessary things are already shared

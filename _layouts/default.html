@@ -27,7 +27,7 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
         {% if site.show_link %}
-       <p><a href="../Home.md">{{ site.github.Home }}</a></p>
+       <p><a href="{{site.github.show_link | relative_url}}">{{ site.github.Home }}</a></p>
        {% endif %}
       </header>
       <section>

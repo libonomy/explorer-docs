@@ -251,7 +251,10 @@ footer {
         top: 52px;
     }
 }
-
+div.link-view {
+    display: flex;
+    flex-direction: column;
+}
 @media print, screen and (max-width: 720px) {
     body {
         word-wrap: break-word;

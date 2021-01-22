@@ -1,6 +1,6 @@
 title: Explorer Docs
 logo: /assets/img/logo.png
 description:
-show_downloads: true
+show_links: [[Home](./Home.md)]
 google_analytics:
 theme: jekyll-theme-minimal

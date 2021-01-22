@@ -254,6 +254,10 @@ footer {
 div.link-view {
     display: flex;
     flex-direction: column;
+    a {
+        padding: 10px;
+        font-size: 18px;
+    }
 }
 @media print, screen and (max-width: 720px) {
     body {

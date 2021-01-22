@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[Document](docs/CODE_OF_CONDUCT.md)
-[Home](./Home.md).
+<!-- [Document](docs/CODE_OF_CONDUCT.md)
+[Home](./Home.md). -->
 
 # Libo Explorer Documentation
 

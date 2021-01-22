@@ -1,7 +1,7 @@
-[Home](Home.md) [Installation](Installation.md)
-[Document](docs/CODE_OF_CONDUCT.md)
+<!-- [Home](Home.md) [Installation](Installation.md)
+[Document](docs/CODE_OF_CONDUCT.md) -->
 
-# The Minimal theme
+# The Libonomy theme
 
 _Libonomy theme for GitHub Pages. You can [preview the theme to see what it looks like](https://libonomy.github.io/explorer-docs/), or even [use it today](#usage)._
 

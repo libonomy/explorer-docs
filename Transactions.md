@@ -1,18 +1,18 @@
-# Transactions
+## Transactions
 
-## GET Transactions By Hash
+#### GET Transactions By Hash
 
 ```
 http://127.0.0.1:1317/txs/E754A9F49EB49497326D27E324A222AE9C5EB6A58155AD368E70CA5904733115
 ```
 
-## GET Search Transactions
+#### GET Search Transactions
 
 ```
 http://127.0.0.1:1317/txs?message.action=send&message.sender=libonomy14rr6gl83lueqqnp4ud9lajxpljj5nftcxzpm4s&page=1&limit=3&tx.minheight=1&tx.maxheight=900000
 ```
 
-PARAMS
+##### PARAMS
 
 ```
 message.action         send
@@ -34,7 +34,7 @@ tx.maxheight           900000
                        Optional: For Maximum Height to get transactions to
 ```
 
-## POST Broadcast Transaction
+#### POST Broadcast Transaction
 
 ```
 http://127.0.0.1:1317/txs
@@ -44,7 +44,7 @@ In order to broadcast the signed transaction object use the following route . Yo
 
 #### HEADERS
 
-#### Content-Type &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; application/json
+##### Content-Type &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; application/json
 
 #### Body raw
 
@@ -92,7 +92,7 @@ In order to broadcast the signed transaction object use the following route . Yo
 }
 ```
 
-## POST Encode Transaction
+#### POST Encode Transaction
 
 ```
 http://127.0.0.1:1317/txs/encode

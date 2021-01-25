@@ -1,24 +1,24 @@
-# Blockchain_info
+## Blockchain_info
 
-## GET Node Info
+#### GET Node Info
 
 ```
 http://127.0.0.1:1317/node_info
 ```
 
-## GET Syncing
+#### GET Syncing
 
 ```
 http://127.0.0.1:1317/syncing
 ```
 
-## GET Latest Blocks
+#### GET Latest Blocks
 
 ```
 http://127.0.0.1:1317/blocks/latest
 ```
 
-## GET Get Blocks by height
+#### GET Get Blocks by height
 
 ```
 http://127.0.0.1:1317/blocks/{{height}}
@@ -28,7 +28,7 @@ Get block at the certain height
 
 #### HEADERS
 
-## GET Get Latest Validator Set
+#### GET Get Latest Validator Set
 
 ```
 http://127.0.0.1:1317/validatorsets/latest
@@ -36,7 +36,7 @@ http://127.0.0.1:1317/validatorsets/latest
 
 Get block at the certain height
 
-## GET Get Validator
+#### GET Get Validator
 
 ```
 http://127.0.0.1:1317/validatorsets/{{height}}

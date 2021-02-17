@@ -5,7 +5,7 @@ layout: default
 <!-- [Document](docs/CODE_OF_CONDUCT.md)
 [Home](./Home.md). -->
 
-# Libo Explorer Documentation
+# Libonomy Documentation
 
 Libo Explorer is a Block Explorer and Analytics Platform for Libo Coin, a decentralized smart contracts platform.
 

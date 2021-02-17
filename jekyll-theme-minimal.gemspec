@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.license       = ''
   s.authors       = ''
   s.email         = ['opensource']
-  s.homepage      = 'https://libonomy.github.io/explorer-docs/'
+  s.homepage      = 'https://libonomy.github.io/libonomy-docs/'
   s.summary       = 'Libonomy for GitHub Pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|

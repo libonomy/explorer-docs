@@ -3,7 +3,7 @@
 
 # The Libonomy theme
 
-_Libonomy theme for GitHub Pages. You can [preview the theme to see what it looks like](https://libonomy.github.io/explorer-docs/), or even [use it today](#usage)._
+_Libonomy theme for GitHub Pages. You can [preview the theme to see what it looks like](https://libonomy.github.io/libonomy-docs/), or even [use it today](#usage)._
 
 # Libo Explorer Documentation
 

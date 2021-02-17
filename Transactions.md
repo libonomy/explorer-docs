@@ -21,6 +21,9 @@ message.action         send
 message.sender         libonomy14rr6gl83lueqqnp4ud9lajxpljj5nftcxzpm4s
                        Optional: For specific Account
 
+message.recipient      libonomy14rr6gl83lueqqnp4ud9lajxpljj5nftcxzpm4s
+                       Optional: For getting the received transaction
+
 page                   1
                        Optional: For specific Page number
 

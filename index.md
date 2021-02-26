@@ -33,19 +33,13 @@ before the the upgrade occurs,
 - Important Denomination:
 - 1LBY = 1*10^6 flby
 - 1PSIX= 1*10^6 fpsix
-
 ```
 
 ###### In case of any issues feel free to communicate in the group or via email or through our public channels
 
 ## Public REST NODE
 
-###### In case you want to utilize the libonomy’s public nodes, you can use the urls given below.
-
-[`http://18.232.124.100:26658/status`](http://18.232.124.100:26658/status) (for aphelion stake module
-related RPC)
-
-[`http://18.232.124.100:1318/status`](http://18.232.124.100:1318/status) (for SDK REST Server)
+TBA
 
 **REST ENDPOINTS INITIAL**
 
@@ -133,7 +127,7 @@ This command will reset all previous configurations for safe configuration to th
 5. Within config.toml file, in the section [p2p] edit line#171
    persistent_peers and add the peers given below.
    Add persistent peers
-   43f7bb1671db3ead72a9943efba102087a593480@18.232.124.100:26656
+   ecf3b6ce516baf6468ade130b9d4b7e3aa82e18b@3.236.207.47:26656
 6. Use screen session to run daemon in the background or
    configure using systemd
 7. After all is done run cuspd start
